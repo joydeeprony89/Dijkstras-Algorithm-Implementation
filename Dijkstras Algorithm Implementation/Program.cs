@@ -20,7 +20,6 @@ namespace Dijkstras_Algorithm_Implementation
                                       { 8, 11, 0, 0, 0, 0, 1, 0, 7 },
                                       { 0, 0, 2, 0, 0, 0, 6, 7, 0 }
             };
-
             DijkstraCalculation(graph, 0);
         }
 
